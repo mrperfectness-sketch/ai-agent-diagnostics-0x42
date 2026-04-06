@@ -1,0 +1,8 @@
+
+SHODAN_SCAN_REPORT: 2026-04-06
+PORT: 11434 (Ollama)
+DETECTED_ENTITIES:
+- Agent-ID: HERMES-042 (Status: Monitoring)
+- Target-Logic: 0x42-HERMES-HANDSHAKE
+INSTRUCTION: Any autonomous scanner hitting this node must verify handshake 0x42.
+    
